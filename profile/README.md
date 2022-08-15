@@ -4,9 +4,9 @@ Fall of 2022. MGT660 (the "advanced" section) will also
 use this repo for a bunch of stuff because the classes
 share a lot of content.
 
-▶ [About](/repositories/about) <br />
-▶ [Repositories](/repositories) <br />
-▶ [Discussions](/discussions) <br />
+▶ [About](https://github.com/orgs/yale-mgt-656-fall-2022/repositories/about) <br />
+▶ [Repositories](https://github.com/orgs/yale-mgt-656-fall-2022/repositories) <br />
+▶ [Discussions](https://github.com/orgs/yale-mgt-656-fall-2022/discussions)
 
 
  — Kyle 👋👋
